@@ -30,7 +30,7 @@
 
 ## 학습
 ```sh
-~~!python train.py -c configs/nahida.json -m nahida~~
+!python train.py -c configs/nahida.json -m nahida
 ```
 
 ### 메모
