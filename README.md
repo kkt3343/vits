@@ -30,11 +30,11 @@
 
 ## 학습
 ```sh
-!python train.py -c configs/nahida.json -m nahida
+~~!python train.py -c configs/nahida.json -m nahida~~
 ```
 
 ### 메모
 ```sh
-우선 KSS로 먼저 학습을 실시하고 보이스를 바꿀 
+우선 KSS로 먼저 학습을 실시하고 보이스를 바꿀 예정
 ```
 
