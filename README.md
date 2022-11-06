@@ -16,6 +16,7 @@
 ```
 - filelists/wavs 안에 보이스를 넣는다.
 ```sh
+%cd vits
 !pip install -r requirements.txt
 ```
 
