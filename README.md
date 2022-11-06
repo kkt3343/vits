@@ -8,5 +8,12 @@
 
 ## 하는 법
 - Colab가서 ipynb를 연다.
-- git clone https://github.com/CjangCjengh/vits.git
-
+- 코드 삽입
+```sh
+!git clone https://github.com/kkt3343/vits
+```
+- filelists/wavs 안에 보이스를 넣는다.
+- 코드 삽입
+```sh
+!pip install -r requirements.txt
+```
