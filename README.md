@@ -1,6 +1,7 @@
 ## vits
 
 출처 : https://github.com/CjangCjengh/vits
+출처 : https://github.com/jaywalnut310/vits
 
 ## 설명
 
