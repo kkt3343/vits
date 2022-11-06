@@ -11,10 +11,11 @@
 ## 하는 법
 - Colab가서 ipynb를 연다.
 - 런타임 GPU 설정 한다.
+- filelists/wavs 안에 보이스를 넣는다.
+- 아래 코드를 차례대로 실행한다.
 ```sh
 !git clone https://github.com/kkt3343/vits
 ```
-- filelists/wavs 안에 보이스를 넣는다.
 ```sh
 %cd vits
 !pip install -r requirements.txt
