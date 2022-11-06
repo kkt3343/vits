@@ -22,8 +22,9 @@
 ```
 
 ```sh
+%cd content/vits #만약 재시작을 했다면
 %cd monotonic_align
-python setup.py build_ext --inplace
+!python setup.py build_ext --inplace
 %cd ..
 ```
 
