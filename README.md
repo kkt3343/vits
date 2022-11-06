@@ -21,3 +21,8 @@ cd monotonic_align
 python setup.py build_ext --inplace
 cd ..
 ```
+
+## 학습
+```sh
+!python train.py -c configs/nahida.json -m nahida
+```
