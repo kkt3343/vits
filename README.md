@@ -10,6 +10,7 @@
 
 ## 하는 법
 - Colab가서 ipynb를 연다.
+- 런타임 GPU 설정 한다.
 ```sh
 !git clone https://github.com/kkt3343/vits
 ```
