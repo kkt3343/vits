@@ -21,9 +21,9 @@
 ```
 
 ```sh
-cd monotonic_align
+%cd monotonic_align
 python setup.py build_ext --inplace
-cd ..
+%cd ..
 ```
 
 ## 학습
