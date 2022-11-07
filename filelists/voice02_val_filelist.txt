@@ -1,0 +1,58 @@
+filelists/wavs/2_0219.wav|천장이 너무 낮아서 좀 갑갑해요.
+filelists/wavs/2_0072.wav|나이에 걸맞게 행동해라.
+filelists/wavs/2_0449.wav|스트레스와 암은 밀접한 관련이 있다.
+filelists/wavs/2_0274.wav|아이들을 돌보는 건 부모로서 제가 당연히 해야 하는 일이에요.
+filelists/wavs/2_0334.wav|냄비가 너무 뜨거워서 만질 수가 없어요.
+filelists/wavs/2_0758.wav|갑자기 머리가 어지러워요.
+filelists/wavs/2_0278.wav|이건 대단히 뛰어난 작품입니다.
+filelists/wavs/2_0393.wav|그 사람 노래 실력은 가수 못지않아.
+filelists/wavs/2_0899.wav|아들 녀석은 잘생겨서 여자들한테 인기가 많아요.
+filelists/wavs/2_0055.wav|이 기념비는 그의 거룩한 희생을 기리기 위해 지어졌다.
+filelists/wavs/2_0383.wav|엄마는 왜 그 사람한테 그렇게 모질게 대하세요?
+filelists/wavs/2_0191.wav|며칠이면 깨끗이 나을 겁니다.
+filelists/wavs/2_0151.wav|저는 그런 일은 하고 싶지 않아요.
+filelists/wavs/2_0172.wav|급할수록 돌아가라.
+filelists/wavs/2_0748.wav|요즘 어떻게 지내요?
+filelists/wavs/2_1089.wav|풍성한 한가위 되세요.
+filelists/wavs/2_0096.wav|모든 도시는 고유한 특성을 지니고 있다.
+filelists/wavs/2_0481.wav|말하기 부끄럽지만, 저는 엄마 생일이 언제인지 몰라요.
+filelists/wavs/2_0351.wav|시험 결과가 썩 만족스럽지 않아요.
+filelists/wavs/2_0114.wav|가끔은 사는 게 공허하게 느껴져요.
+filelists/wavs/2_0150.wav|이 요리는 보기에는 그럴듯하지만, 맛은 별로다.
+filelists/wavs/2_0625.wav|그녀는 크고 순박한 눈으로 나를 바라보았다.
+filelists/wavs/2_0895.wav|그 여자는 자기가 잘난 줄 알아요.
+filelists/wavs/2_0666.wav|저도 암이 심각한 병이라는 건 알아요.
+filelists/wavs/2_1128.wav|활발한 논의를 기대합니다.
+filelists/wavs/2_0100.wav|지금은 배가 너무 고파서 아무것도 할 수가 없어요.
+filelists/wavs/2_1033.wav|그녀는 어려운 상황에서도 침착함을 잃지 않았다.
+filelists/wavs/2_0772.wav|지금 당장은 할 일이 없어요.
+filelists/wavs/2_0488.wav|그 사람은 목소리가 참 부드러워.
+filelists/wavs/2_1080.wav|이 이불은 참 포근해요.
+filelists/wavs/2_0070.wav|저는 피부가 건조한 편이에요.
+filelists/wavs/2_0161.wav|그만한 사람 찾기도 쉽지 않아.
+filelists/wavs/2_0074.wav|머리를 검게 염색하니 할머니는 훨씬 젊어 보였다.
+filelists/wavs/2_0863.wav|잠자코 있는 쪽이 너한테 이로워.
+filelists/wavs/2_0963.wav|집에만 있는 것도 지겨워 죽겠어.
+filelists/wavs/2_0438.wav|바닥이 미끄러우니 조심하세요.
+filelists/wavs/2_0065.wav|저는 아주 건강합니다. 걱정하지 마세요.
+filelists/wavs/2_0140.wav|귀중한 시간을 낭비하지 마라.
+filelists/wavs/2_0356.wav|이 바다는 물이 맑기로 유명해요.
+filelists/wavs/2_0005.wav|그녀의 음정은 완벽에 가까웠다.
+filelists/wavs/2_0183.wav|이 문제는 초등학생들에게는 너무 까다로워.
+filelists/wavs/2_1047.wav|물이 어찌나 투명한지 바닥이 다 보여.
+filelists/wavs/2_0291.wav|저는 단지 다른 사람들과 동등한 대우를 받기를 원할 뿐입니다.
+filelists/wavs/2_0029.wav|저는 간지럼을 잘 타요.
+filelists/wavs/2_0133.wav|그는 매력적인 굵은 목소리를 지니고 있다.
+filelists/wavs/2_0613.wav|아내는 저한테 정말 소중한 사람이에요.
+filelists/wavs/2_1028.wav|우리의 첫 번째 목표는 치열한 경쟁에서 살아남는 것이다.
+filelists/wavs/2_0860.wav|간단히 말해서 상황은 이래.
+filelists/wavs/2_1042.wav|이 책은 저에게 큰 도움이 됐어요.
+filelists/wavs/2_0912.wav|적당한 운동은 최상의 신체 상태를 위해 필수적이다.
+filelists/wavs/2_0633.wav|숱한 실패 끝에 그는 마침내 그 문제를 푸는 데 성공했다.
+filelists/wavs/2_1003.wav|태양이 찬란하게 빛나고 있었다.
+filelists/wavs/2_0260.wav|그 여자는 어린아이처럼 단순하다.
+filelists/wavs/2_0539.wav|마을의 단풍이 붉게 물들었다.
+filelists/wavs/2_0138.wav|아기가 참 귀엽네요!
+filelists/wavs/2_0705.wav|그녀는 외모뿐 아니라 마음도 아름답다.
+filelists/wavs/2_0508.wav|불가피한 사정으로 오늘 행사는 취소되었습니다.
+filelists/wavs/2_0190.wav|외출하고 돌아오면 손을 깨끗이 씻어라.
