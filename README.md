@@ -38,6 +38,6 @@
 우선 KSS로 먼저 학습을 실시하고 보이스를 바꿀 예정
 ```
 
-![Alt Text](https://user-images.githubusercontent.com/78895622/200471124-22b8346d-6609-4a3a-a414-f755a95c1ac6.mov)
+
 
 
