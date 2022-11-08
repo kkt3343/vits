@@ -38,3 +38,5 @@
 우선 KSS로 먼저 학습을 실시하고 보이스를 바꿀 예정
 ```
 
+<video src="./__testwavs__/16_5.mov" width="320" height="200" controls preload></video>
+
