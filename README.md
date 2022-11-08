@@ -38,8 +38,6 @@
 우선 KSS로 먼저 학습을 실시하고 보이스를 바꿀 예정
 ```
 
-
-<audio controls>
-	<source src="./__testwavs__/16_5.wav" type="audio/wav">
-</audio>
+## 음성듣기
+[음성듣기](https://kkt3343.github.io/vits/nahida_tts.html)
 
