@@ -34,6 +34,6 @@
 ```
 
 
-## 음성듣기
-[음성듣기](https://kkt3343.github.io/vits/nahida_tts.html)
+## 음성듣기 (Sample TTS)
+[음성듣기 (Sample TTS)](https://kkt3343.github.io/vits/tts_sample.html)
 
