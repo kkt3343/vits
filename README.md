@@ -35,5 +35,5 @@
 
 
 ## 음성듣기 (Sample TTS)
-[음성듣기 (Sample TTS)](https://kkt3343.github.io/vits/tts_sample.html)
+[음성듣기 (Sample TTS)](https://kkt3343.github.io/vits/tts_sample3.html)
 
