@@ -34,7 +34,7 @@
 ```
 
 ## VITS inference GUI
-밑의 사이트 이용 추천
+밑의 사이트 이용 추천 <
 https://github.com/CjangCjengh/MoeGoe
 
 
