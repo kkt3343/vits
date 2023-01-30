@@ -33,7 +33,8 @@
 !python train.py -c configs/XXX.json -m XXX
 ```
 
-## VITS inference 
+## VITS inference GUI
+밑의 사이트 이용 추천
 https://github.com/CjangCjengh/MoeGoe
 
 
