@@ -59,6 +59,14 @@ MoeGoe를 사용하면 매우 쉽게 음성을 얻을 수 있습니다.
 
 ![ref](./참조2.png)
 
+## 학습하기 성공
+
+학습하기 성공하면 다음과 같은 결과가 나온다.
+
+오랫동안 학습시켜두면 된다.
+
+![ref](./참조3.png)
+
 ## 음성듣기 (Sample TTS)
 [음성듣기 (Sample TTS)](https://kkt3343.github.io/vits/tts_sample3.html)
 
