@@ -6,36 +6,20 @@
 
 ## 설명
 
-한글 TTS를 만들기 위해 default 세팅을 해둠.
+한글 TTS를 만들기 위해 약간의 작업을 해두었습니다.
 
-## 하는 법
-- Colab가서 ipynb를 연다.
-- 런타임 GPU 설정 한다.
-- filelists/wavs 안에 보이스를 넣는다.
-- 아래 코드를 차례대로 실행한다.
-```sh
-!git clone https://github.com/kkt3343/vits
+데이터셋만 만들면 나머지는 버튼만 누르면 될 정도로 쉽게 커스텀 해두었습니다.
+
+데이터셋 예제는 다음과 같습니다.
+
+싱글 speaker 기준
 ```
-```sh
-%cd vits
-!pip install -r requirements.txt
+dataset/130061007_kr.wav|안녕히 가세요
 ```
 
-```sh
-%cd content/vits #만약 재시작을 했다면
-%cd monotonic_align
-!python setup.py build_ext --inplace
-%cd ..
-```
+원신 데이터 셋은 첨부해둔 파일의 크롤링으로 얻을 수 있습니다.
 
-## 학습
-```sh
-!python train.py -c configs/XXX.json -m XXX
-```
-
-## VITS inference GUI
-밑의 사이트 이용 추천 <br>
-https://github.com/CjangCjengh/MoeGoe
+학습은 구글 Colab에서 하는 것을 추천합니다.
 
 
 ## 음성듣기 (Sample TTS)
