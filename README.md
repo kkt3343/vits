@@ -23,13 +23,13 @@ dataset/130061007_kr.wav|안녕히 가세요
 
 자신의 구글드라이브를 다음과 같이 구성해야합니다.
 ```
-└tts_dataset
+└ tts_dataset
   └ 각각 이름 (ex paimon)
     └ train.txt
     └ val.txt
     └ wavs
       └ *.wav
-└vits_model (여기에 학습된 데이터 저장됨)
+└ vits_model (여기에 학습된 데이터 저장됨)
 ```
 
 
