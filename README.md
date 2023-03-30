@@ -32,7 +32,8 @@ dataset/130061007_kr.wav|안녕히 가세요
 └ vits_model (여기에 학습된 데이터 저장됨)
 ```
 (다음과 같이 구성)
-<img src="참조1.png></img>
+
+![ref](./참조1.png)
 
 
 
