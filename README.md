@@ -47,6 +47,15 @@ wav파일경로|음성명
 
 저는 해당 방법을 통해 매번 clone하지 않고 직접 드라이브에 넣어서 학습하였습니다.
 
+## 학습데이터로 음성 얻기
+
+MoeGoe를 사용하면 매우 쉽게 음성을 얻을 수 있습니다.
+[MoeGoe](https://github.com/CjangCjengh/MoeGoe)
+
+중국어이기 때문에 간단히 번역해 두었습니다.
+
+[사용법]
+![ref](./참조2.png)
 
 ## 음성듣기 (Sample TTS)
 [음성듣기 (Sample TTS)](https://kkt3343.github.io/vits/tts_sample3.html)
