@@ -50,6 +50,7 @@ wav파일경로|음성명
 ## 학습데이터로 음성 얻기
 
 MoeGoe를 사용하면 매우 쉽게 음성을 얻을 수 있습니다.
+
 [MoeGoe](https://github.com/CjangCjengh/MoeGoe)
 
 중국어이기 때문에 간단히 번역해 두었습니다.
