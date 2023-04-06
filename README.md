@@ -68,5 +68,5 @@ MoeGoe를 사용하면 매우 쉽게 음성을 얻을 수 있습니다.
 ![ref](./참조3.png)
 
 ## 음성듣기 (Sample TTS)
-[음성듣기 (Sample TTS)](https://kkt3343.github.io/vits/tts_sample_.html)
+[음성듣기 (Sample TTS)](https://kkt3343.github.io/vits/tts_sample_main.html)
 
